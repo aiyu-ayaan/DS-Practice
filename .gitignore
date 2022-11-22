@@ -1,0 +1,3 @@
+# Excude all .exe from all subdirectories
+
+**/*.exe
